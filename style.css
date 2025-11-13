@@ -54,8 +54,10 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px;
   height: 235px;
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 main p {
@@ -64,6 +66,7 @@ main p {
   align-items: center;
   text-align: center;
   max-width: 350px;
+  margin-left: 25px;
 }
 
 h2 {
